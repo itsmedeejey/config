@@ -1,0 +1,55 @@
+
+font-family = JetBrainsMono Nerd Font
+font-style = Regular
+font-size = 17
+font-thicken = true
+
+adjust-underline-position = 40%
+adjust-underline-thickness = -60%
+
+cursor-style = block
+cursor-style-blink = true
+cursor-color = #f4dbd6
+cursor-text = #24273a
+
+shell-integration = zsh  
+shell-integration-features = no-cursor
+keybind = ctrl+d=new_split:right
+
+window-width = 120
+window-height = 45
+window-decoration = true
+window-padding-balance = true
+confirm-close-surface = false
+clipboard-paste-protection = false
+unfocused-split-opacity = 1.0
+
+background = #24273a
+foreground = #cad3f5
+selection-background = #3a3e53
+selection-foreground = #cad3f5
+background-opacity = 0.85
+background-blur-radius = 40
+
+palette = 0=#494d64
+palette = 1=#ed8796
+palette = 2=#a6da95
+palette = 3=#eed49f
+palette = 4=#8aadf4
+palette = 5=#f5bde6
+palette = 6=#8bd5ca
+palette = 7=#b8c0e0
+palette = 8=#5b6078
+palette = 9=#ed8796
+palette = 10=#a6da95
+palette = 11=#eed49f
+palette = 12=#8aadf4
+palette = 13=#f5bde6
+palette = 14=#8bd5ca
+palette = 15=#a5adcb
+
+
+
+
+
+

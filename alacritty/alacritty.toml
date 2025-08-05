@@ -1,0 +1,55 @@
+general.import =[
+  "~/.config/alacritty/themes/themes/coolnight.toml"
+]
+[env]
+TERM = "xterm-256color"
+
+
+# Colors (Aura Theme)
+
+# Default colors
+[colors.primary]
+background = '#15141b'
+foreground = '#edecee'
+
+# Normal colors
+[colors.normal]
+black   = '#110f18'
+red     = '#ff6767'
+green   = '#61ffca'
+yellow  = '#ffca85'
+blue    = '#a277ff'
+magenta = '#a277ff'
+cyan    = '#61ffca'
+white   = '#edecee'
+
+# Bright colors
+[colors.bright]
+black   = '#4d4d4d'
+red     = '#ff6767'
+green   = '#61ffca'
+yellow  = '#ffca85'
+blue    = '#a277ff'
+magenta = '#a277ff'
+cyan    = '#61ffca'
+white   = '#edecee'
+
+[colors.selection]
+text       = 'CellForeground'
+background = '#29263c'
+
+[colors.cursor]
+cursor = '#a277ff'
+
+[window]
+padding.x = 10
+padding.y = 10
+decorations = 'Buttonless'
+opacity = 0.4
+blur = true
+dimensions.columns = 80
+dimensions.lines = 30
+
+[font]
+normal.family = "0xProto Nerd Font"
+size = 17 
